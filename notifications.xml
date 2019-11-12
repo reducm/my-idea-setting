@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Docker: Dockerfile detection" shouldLog="false" />
+    <notification groupId="JBA Cloud Config" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="JSCS Config Import" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
