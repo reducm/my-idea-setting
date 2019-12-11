@@ -13,6 +13,9 @@
     <keyboard-shortcut first-keystroke="shift meta 9" />
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
   <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
   <action id="GotoBookmark4" />
@@ -28,6 +31,9 @@
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl meta slash" />
   </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
