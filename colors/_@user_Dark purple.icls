@@ -3,7 +3,7 @@
     <property name="created">2019-12-11T17:33:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-12-11T17:39:58</property>
+    <property name="modified">2019-12-11T18:13:52</property>
     <property name="originalScheme">Dark purple</property>
   </metaInfo>
   <colors>
@@ -664,6 +664,11 @@
     <option name="RUBY_METHOD_NAME">
       <value>
         <option name="FOREGROUND" value="c7c73d" />
+      </value>
+    </option>
+    <option name="RUBY_STRING">
+      <value>
+        <option name="FOREGROUND" value="a39e1f" />
       </value>
     </option>
     <option name="RUBY_SYMBOL">
