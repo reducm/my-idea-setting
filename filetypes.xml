@@ -1,13 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="mongoclient" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="kibana" type="PLAIN_TEXT" />
       <mapping pattern="mongoexpress" type="PLAIN_TEXT" />
-      <mapping pattern="refresh_version_beta" type="Ruby" />
-      <mapping ext="nj" type="Twig" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="mongoclient" type="PLAIN_TEXT" />
+      <mapping pattern="kibana" type="PLAIN_TEXT" />
       <removed_mapping pattern="lottery.js" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="nj" type="Twig" />
+      <mapping pattern="refresh_version_beta" type="Ruby" />
     </extensionMap>
   </component>
 </application>
