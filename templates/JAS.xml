@@ -82,4 +82,12 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
+  <template name="rf" value="# @description $1$&#10;# @params $2$&#10;# @return $3$&#10;" description="function comments" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
 </templateSet>
