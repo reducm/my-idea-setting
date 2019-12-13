@@ -347,6 +347,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.3/examples" />
       </excluded>
     </library>
+    <library name="activerecord (v6.0.1, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/activerecord-6.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/activerecord-6.0.1/examples" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/activerecord-6.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/activerecord-6.0.1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/activerecord-6.0.1/examples" />
+      </excluded>
+    </library>
     <library name="activerecord-import (v1.0.2, RVM: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
