@@ -5596,6 +5596,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/padrino-helpers-0.9.21/test" />
       </excluded>
     </library>
+    <library name="paper_trail (v10.3.1, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/paper_trail-10.3.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/paper_trail-10.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="parallel (v1.14.0, RVM: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
