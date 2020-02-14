@@ -74,6 +74,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F6</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
     <editor />
     <notifications>
