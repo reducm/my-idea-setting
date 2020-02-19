@@ -16,6 +16,10 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="GoFmtFileAction">
+    <keyboard-shortcut first-keystroke="shift meta alt f" />
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
   <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
   <action id="GotoBookmark4" />
