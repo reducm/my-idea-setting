@@ -37,6 +37,12 @@
   </action>
   <action id="QuickChangeScheme" />
   <action id="RecentFiles" />
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
@@ -48,9 +54,6 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="Vcs.UpdateProject" />
-  <action id="android.deploy.ApplyChanges">
-    <keyboard-shortcut first-keystroke="ctrl meta r" />
-  </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta r" />
   </action>
